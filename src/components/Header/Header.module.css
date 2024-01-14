@@ -1,0 +1,42 @@
+.header__container {
+  background-color: var(--black);
+  color: #ffffff;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
+
+.logo_div {
+  display: flex;
+}
+
+.list_item {
+  display: flex;
+  list-style: none;
+  gap: 3rem;
+}
+
+.searchbar {
+  border: 1px solid var(--grey);
+  color: #6C757D;
+
+  padding-left: 1rem;
+
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+
+  width: 170px;
+  height: 38px;
+
+  margin-right: 1rem;
+}
+
+.searchbutton {
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    background-color: transparent;
+    border-radius: 0;
+}

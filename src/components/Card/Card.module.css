@@ -1,0 +1,38 @@
+.card__container {
+  color: var(--black);
+  display: flex;
+  width: 350px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  border: 1px solid rgba(0, 0, 0, 0.13);
+}
+
+.card_image {
+  border-radius: 4px 4px 0px 0px;
+  max-width: 100%;
+  max-height: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.card_title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.card_description {
+  font-size: 16px;
+  font-weight: 400;
+  align-self: stretch;
+}
+
+.card_preco {
+  font-weight: bolder;
+}
+
+.card_button {
+  background-color: var(--purple);
+  color: #ffffff;
+  border-radius: 0;
+}

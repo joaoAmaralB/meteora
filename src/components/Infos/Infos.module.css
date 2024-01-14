@@ -1,0 +1,33 @@
+.infos__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #000000;
+    padding-bottom: 3rem;
+}
+
+.infos__title {
+    color: #FFFFFF;
+}
+
+.infos__list {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+}
+
+.list_item {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    color: #FFFFFF;
+}
+
+.list_item h3 {
+    color: var(--yellow);
+}
+
+.text__container {
+    width: 60%;
+}

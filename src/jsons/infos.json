@@ -1,0 +1,17 @@
+[
+  {
+    "title": "PAGUE PELO PIX",
+    "image": "./Infos/pix.png",
+    "description": "Ganhe 5% OFF em pagamentos via PIX"
+  },
+  {
+    "title": "TROCA GRÁTIS",
+    "image": "./Infos/troca.png",
+    "description": "Fique livre para trocar em até 30 dias."
+  },
+  {
+    "title": "SUSTENTABILIDADE",
+    "image": "./Infos/sustentabilidade.png",
+    "description": "Moda responsável, que respeita o meio ambiente."
+  }
+]

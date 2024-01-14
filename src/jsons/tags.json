@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Camisetas",
+        "imagem": "./TagsImages/camiseta.png"
+    },
+    {
+        "name": "Bolsas",
+        "imagem": "./TagsImages/bolsa.png"
+    },
+    {
+        "name": "Calçados",
+        "imagem": "./TagsImages/calçados.png"
+    },
+    {
+        "name": "Calças",
+        "imagem": "./TagsImages/calças.png"
+    },
+    {
+        "name": "Casacos",
+        "imagem": "./TagsImages/casacos.png"
+    },
+    {
+        "name": "Óculos",
+        "imagem": "./TagsImages/oculos.png"
+    }
+]
